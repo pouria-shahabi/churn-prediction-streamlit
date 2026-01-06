@@ -1,3 +1,4 @@
+import pandas as pd
 
 def to_numeric(X):
   X=X.copy()
